@@ -78,7 +78,7 @@ A PDF export of the full documentation is included in this repo at `docs/Retail 
 ## License
 This repository contains two distinct licenses:
 
-- **Your original work** — the analysis, KPI/CLV modeling, dashboard design, and written commentary — is licensed under the [MIT License](LICENSE) — see the LICENSE file for details.
+- **Your original work** — the analysis, KPI/CLV modeling, dashboard design, and written commentary — is licensed under the [MIT License](LICENSE.txt) — see the LICENSE file for details.
 - **The dataset** (including any cleaned/derived version of it included in this repo) remains under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), per the original Kaggle license. It must be attributed and, if shared or adapted, kept under the same license.
 
 ## Acknowledgments
